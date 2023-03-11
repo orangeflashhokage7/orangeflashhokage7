@@ -3,6 +3,10 @@
 ![naruto](https://user-images.githubusercontent.com/127587961/224508078-e5525010-72fc-4668-b3e9-c1000839ac54.gif)
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=orangeflashhokage7&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+
 # 💫 About Me:
 🔭 I’m currently working on NEXT GEN AI PROJECTS<br>
 
@@ -21,6 +25,16 @@
 [![](https://visitcount.itsvg.in/api?id=orangeflashhokage7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+
 
 
 
