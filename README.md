@@ -1,3 +1,8 @@
+
+
+![naruto](https://user-images.githubusercontent.com/127587961/224508078-e5525010-72fc-4668-b3e9-c1000839ac54.gif)
+
+
 # 💫 About Me:
 🔭 I’m currently working on NEXT GEN AI PROJECTS<br>
 
