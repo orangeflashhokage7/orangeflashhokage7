@@ -26,8 +26,9 @@
 </div>
 
 ###
-
 <img src="https://raw.githubusercontent.com/orangeflashhokage7/orangeflashhokage7/blob/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
 
