@@ -17,9 +17,11 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=orangeflashhokage7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=orangeflashhokage7&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=orangeflashhokage7&langs_count=5&theme=tokyonight)]()
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=orangeflashhokage7&theme=darcula&hide_border=true)](https://git.io/streak-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=orangeflashhokage7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=orangeflashhokage7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -29,6 +31,9 @@
 
 
 ![126118](https://user-images.githubusercontent.com/127587961/224509100-afdd2de2-dace-4182-b488-33a11b38d3e0.gif)
+
+
+
 
  
 
