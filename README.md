@@ -9,8 +9,7 @@
 ---
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=orangeflashhokage7&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 # 💫 About Me:
