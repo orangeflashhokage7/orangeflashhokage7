@@ -3,6 +3,11 @@
 
 ![naruto](https://user-images.githubusercontent.com/127587961/224508078-e5525010-72fc-4668-b3e9-c1000839ac54.gif)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=orangeflashhokage7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=orangeflashhokage7&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
@@ -17,6 +22,13 @@
 
 
 # 📊 GitHub Stats:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=orangeflashhokage7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=orangeflashhokage7&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=orangeflashhokage7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
